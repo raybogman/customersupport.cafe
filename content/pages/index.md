@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Welcome to Customer Support Cafe Podcast
     subtitle: >-
-      #customerfrist
+      #customerfirst
     content: >-
       A podcast for support engineers interested in Customer Support. Hosted by Ray Bogman.
     actions:
@@ -108,19 +108,6 @@ sections:
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 10
-  - type: grid_section
-    title: Partners
-    subtitle: 2021 Supporters
-    align: center
-    grid_items:
-      - image: images/logo-1.svg
-        image_alt: Stackbit logo
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    has_border: true
-    background_color: none
   - type: form_section
     content: |-
       ## Ask A Question
