@@ -2,17 +2,17 @@
 title: Home
 sections:
   - type: hero_section
-    title: Welcome to DIYJam Podcast
+    title: Welcome to Customer Support Cafe Podcast
     subtitle: >-
-      Optional hero section subtitle
+      #customerfrist
     content: >-
-      A podcast for Web developers interested in building Jamstack websites. Hosted by Miles Tone.
+      A podcast for support engineers interested in Customer Support. Hosted by Ray Bogman.
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
         style: primary
     image: images/hero.png
-    image_alt: Hero section placeholder image
+    image_alt: Customer Support Cafe
     media_position: left
     media_width: fifty
     align: left
@@ -108,41 +108,7 @@ sections:
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 10
-  - type: grid_section
-    title: Partners
-    subtitle: 2021 Supporters
-    align: center
-    grid_items:
-      - image: images/logo-1.svg
-        image_alt: Stackbit logo
-        image_align: center
-      - image: images/logo-2.svg
-        image_alt: Netlify logo
-        image_align: center
-      - image: images/logo-3.svg
-        image_alt: Sticker Mule logo
-        image_align: center
-      - image: images/logo-4.svg
-        image_alt: GitHub logo
-        image_align: center
-      - image: images/logo-5.svg
-        image_alt: Gatsby logo
-        image_align: center
-      - image: images/logo-6.svg
-        image_alt: Twilio logo
-        image_align: center
-      - image: images/logo-7.svg
-        image_alt: Contentful logo
-        image_align: center
-      - image: images/logo-8.svg
-        image_alt: Forestry logo
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    has_border: true
-    background_color: none
-  - type: form_section
+    - type: form_section
     content: |-
       ## Ask A Question
       I'm OK with any kind of questions and will answer as many as I possibly can.
@@ -184,17 +150,17 @@ sections:
     background_image_size: auto
     background_image_opacity: 98
 seo:
-  title: Stackbit Podcaster Theme
-  description: The preview of the Podcaster theme
+  title: Customer Support Cafe - Hosted by Ray Bogman.
+  description: A podcast for support engineers interested in Customer Support. Hosted by Ray Bogman.
   extra:
     - name: og:type
       value: website
       keyName: property
     - name: og:title
-      value: Stackbit Podcaster Theme
+      value: Customer Support Cafe - Hosted by Ray Bogman
       keyName: property
     - name: og:description
-      value: The preview of the Podcaster theme
+      value: Customer Support Cafe - Hosted by Ray Bogman
       keyName: property
     - name: og:image
       value: images/hero.png
@@ -203,9 +169,9 @@ seo:
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
-      value: Stackbit Podcaster Theme
+      value: Customer Support Cafe - Hosted by Ray Bogman
     - name: twitter:description
-      value: The preview of the Podcaster theme
+      value: Customer Support Cafe - Hosted by Ray Bogman
     - name: twitter:image
       value: images/hero.png
       relativeUrl: true
