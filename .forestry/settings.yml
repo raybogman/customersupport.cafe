@@ -6,13 +6,11 @@ webhook_url:
 sections:
 - type: heading
   label: heading
-- type: document
+- type: directory
   path: content
-  label: page
+  label: Content
+  create: all
   match: "**/*"
-- type: document
-  path: content/pages
-  label: content
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
