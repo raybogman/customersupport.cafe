@@ -9,7 +9,7 @@ thumb_image_alt: Support is being a detective by Ihor Kruchynskyi
 image: images/post-1.jpg
 image_alt: Support is being a detective by Ihor Kruchynskyi
 image_position: left
-episode_embed_html: <audio class="player" src="https://m2ee.bogman.info/s01e01-support-is-being-a-detective-ihor-kruchynskyi.mp3" preload="auto">
+episode_embed_html: <audio controls class="player" src="https://m2ee.bogman.info/s01e01-support-is-being-a-detective-ihor-kruchynskyi.mp3" preload="auto">
   </audio>
 seo:
   title: Support is being a detective by Ihor Kruchynskyi
