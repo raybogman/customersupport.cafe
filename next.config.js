@@ -5,6 +5,9 @@ const sourcebitConfig = require('./sourcebit.js');
 sourcebit.fetch(sourcebitConfig);
 
 module.exports = {
+    env: {
+        PASSWORD_PROTECT: process.env.ENVIRONMENT === 'prod',
+      },
     trailingSlash: true,
     devIndicators: {
         autoPrerender: false
